@@ -1,0 +1,41 @@
+/*PAGE 3*/
+
+.p3-wrapper {
+	height: 800px;
+}
+
+.p3-h1 {
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+}
+
+.p3-inputs {
+	margin-bottom: 20px !important;
+	padding: 10px 50px 10px 30px !important;
+	text-align: center;
+	border: 3px solid black;
+}
+
+.p3-textarea {
+	background-color: #eeeeee;
+	text-align: left;
+}
+
+.p3-submit {
+	background-color: white;
+	width: 20%;
+	padding: 20px 50px 20px 50px !important;
+	background-color: $blue-color;
+	border: none !important;
+	color: white;
+}
+
+.p3-submit:hover {
+	background-color: black;
+}
+
+
+
+
+
+
